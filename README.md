@@ -1,7 +1,7 @@
 # Bhavya's M.Sc Software Project - PSG College of Technology
 
 Welcome to my M.Sc Software repository! I am Bhavya, a 3rd-year student at PSG College of Technology, pursuing my Master's in Software Systems. This repository contains various projects, assignments, and experiments I have worked on during my academic journey.
-<br>
+<hr>
 ## Table of Contents
 - [About Me](#about-me)
 - [Projects](#projects)
